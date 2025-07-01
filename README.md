@@ -4,4 +4,4 @@ Perkenalkan nama saya **Fathin Cahyo Ramadhan**
 
 Saya seorang **Mahasiswa** di [Universitas Amikom Purwokerto](https://amikompurwokerto.ac.id/)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fatin-cahya/) & [Instagram](https://www.instagram.com/in/fatin-cahya/) ku yah
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fatin-cahya/) & [Instagram](https://www.instagram.com/in/fatin.cahya/) ku yah
