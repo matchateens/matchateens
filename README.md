@@ -19,6 +19,15 @@
 
 ---
 
+### 🏆 Trofi GitHub Saya
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=matchateens&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="github profile trophy" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Alat Tempur
 
 | Kategori | Teknologi / Library |
@@ -29,12 +38,12 @@
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik & Aktivitas Kontribusi
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matchateens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=10b981&icon_color=fbbf24&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matchateens&theme=tokyonight&hide_border=true&background=020617&ring=10b981&fire=fbbf24&currStreakNum=ffffff" alt="GitHub Streak Stats" width="49%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchateens&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=10b981&text_color=94a3b8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matchateens&bg_color=020617&color=94a3b8&line=10b981&point=fbbf24&area=true&hide_border=true" alt="GitHub Contribution Graph" width="49%" />
 </p>
 
 ---
