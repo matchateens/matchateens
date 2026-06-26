@@ -18,14 +18,6 @@
 * ⚡ Gemar mempelajari teknologi baru dan siap berkontribusi serta berkolaborasi dalam proyek pemrograman profesional maupun open-source!
 
 ---
-
-### 🏆 Trofi GitHub Saya
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=matchateens&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="github profile trophy" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Alat Tempur
