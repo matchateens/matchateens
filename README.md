@@ -18,7 +18,6 @@
 * ⚡ Gemar mempelajari teknologi baru dan siap berkontribusi serta berkolaborasi dalam proyek pemrograman profesional maupun open-source!
 
 ---
----
 
 ### 🛠️ Tech Stack & Alat Tempur
 
