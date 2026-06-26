@@ -1,5 +1,5 @@
 # Halo semuanya! Saya Fathin Cahyo Ramadhan 👋
-### Informatics Engineering Fresh Graduate | Web Developer Enthusiast
+### Information Technology Fresh Graduate | Web Developer Enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/matchateens?label=Followers&style=flat-square&color=10b981" alt="Followers" />
